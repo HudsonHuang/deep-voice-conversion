@@ -10,3 +10,5 @@ python eval2.py a0001
 python convert.py a0002 
 tensorboard --logdir=./logdir
 
+
+
